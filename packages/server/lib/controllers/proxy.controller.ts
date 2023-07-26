@@ -406,9 +406,9 @@ class ProxyController {
             stringify.on('data', (data) => {
                 this.reportError(error, url, config, activityLogId, data);
             });
-        }
-    }
-
+        def example():
+            a = 4
+            
     /**
      * Get
      * @param {Response} res Express response object
